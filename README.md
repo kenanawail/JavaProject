@@ -1,6 +1,6 @@
 # 🎓 JavaProject - Gestion des Étudiants
 
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## 📖 Description
 Projet **Java orienté objet (POO)** pour la gestion des étudiants avec connexion à une base de données **SQL Server**.  
